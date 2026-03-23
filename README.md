@@ -100,17 +100,9 @@ The project includes:
 ## Repository Structure
 
 ```bash
-topic-modeling-imdb/
+topic-modelingp-nlp/
 │
 ├── topic_modeling.ipynb
 ├── README.md
-├── requirements.txt
-├── images/
-│   ├── topic_freq_minimal.png
-│   ├── topic_freq_improved.png
-│   ├── topic_info_basic.png
-│   ├── topic_info_vectorizer.png
-│   ├── topic_freq_named.png
-│   └── topic_similarity_matrix.png
 └── report/
     └── Z639_Topic_Modeling_Report_cookoro.docx
